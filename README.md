@@ -4,11 +4,13 @@ homework1
 https://youtu.be/uDE-hl-5pgE?si=VgyplDZZFNxMq3qR
 
 homework2
+https://github.com/kyo6974/IP2026/blob/main/HM2.mp4
 
 homework3
 [homework3.ipynb](https://github.com/kyo6974/IP2026/blob/main/homework3.ipynb)
 
 homework4
 https://github.com/kyo6974/IP2026/blob/main/homework4.mp4
+
 homework5
 https://github.com/kyo6974/IP2026/blob/main/Homework5.mp4
